@@ -1,7 +1,7 @@
 <?xml version="1.0.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="origin" fetch="https://github.com/cck-narita/" />
-  <default revision="master" remote="origin" />
+  <default revision="main" remote="origin" />
   <project path="repo1" name="repo1"/>
   <project path="repo2" name="repo2"/>
 </manifest>
