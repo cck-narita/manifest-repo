@@ -3,5 +3,4 @@
   <remote  name="origin" fetch="https://github.com/cck-narita/" />
   <default revision="main" remote="origin" />
   <project path="repo1" name="repo1"/>
-  <project path="repo2" name="rep2"/>
 </manifest>
